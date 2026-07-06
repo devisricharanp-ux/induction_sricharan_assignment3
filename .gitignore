@@ -1,0 +1,16 @@
+# Python build and cache artifacts
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.swp__pycache__/
+*.pyc
+build/
+install/
+log/
